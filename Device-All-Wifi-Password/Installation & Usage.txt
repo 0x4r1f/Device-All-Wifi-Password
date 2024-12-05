@@ -1,5 +1,3 @@
 1. git clone https://github.com/0x4r1f/Device-All-Wifi-Password.git
 
-2.
-
 2. Double-click the Device-All-Wifi-Password.bat file to run the script 
