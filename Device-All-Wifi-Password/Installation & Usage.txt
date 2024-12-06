@@ -1,3 +1,5 @@
-1. git clone https://github.com/0x4r1f/Device-All-Wifi-Password.git
+Download "Device-All-Wifi-Password.ps1" on your folder . 
 
-2. Double-click the Device-All-Wifi-Password.bat file to run the script 
+run "cmd" on your folder, where "Device-All-Wifi-Password.ps1" file . 
+
+run on this command on your cmd : powershell -ExecutionPolicy Bypass -File "Device-All-Wifi-Password.ps1"
